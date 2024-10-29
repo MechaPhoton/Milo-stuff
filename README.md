@@ -19,3 +19,7 @@ ychain_longboi -> moves Y chain further from Y extrusion allowing for use of lar
 
 ![extended Y chain mount](https://github.com/MechaPhoton/Milo-stuff/blob/main/pics/ychainlongboi.PNG) <br><br>
 
+xswitch cover -> supports x chain, covers x switch <br><br>
+
+![extended Y chain mount](https://github.com/MechaPhoton/Milo-stuff/blob/main/pics/xshield.PNG) <br><br>
+
