@@ -23,3 +23,7 @@ xswitch cover -> supports x chain, covers x switch <br><br>
 
 ![extended Y chain mount](https://github.com/MechaPhoton/Milo-stuff/blob/main/pics/xshield.PNG) <br><br>
 
+hosemount -> holds misting unit with compression clamp and m5 heatsets <br><br>
+
+![extended Y chain mount](https://github.com/MechaPhoton/Milo-stuff/blob/main/pics/mistclamp.PNG) <br><br>
+
